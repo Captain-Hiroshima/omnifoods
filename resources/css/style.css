@@ -199,8 +199,6 @@ input[type="submit"]:hover {
   border-bottom: 2px solid #e67e22;
 }
 
-.section-features {
-}
 /* MEALS */
 .section-meals {
   margin: 0;
@@ -270,7 +268,6 @@ li {
 .works-step div {
   color: #e67e22;
   border: 2px solid #e67e22;
-  display: inline-block;
   border-radius: 50%;
   height: 50px;
   width: 50px;
